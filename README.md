@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suhayb123414
-- 👀 I’m interested in coding, but don't really know what type of career in Coding that I want to take.
-- 🌱 I’m currently learning Javascript.
+- 👀 I’m interested in coding, and I think I want to be a front-end web developer but might change.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on coding, front-end
 - 📫 How to reach me, suhaybtheking11@gmail.com
 
